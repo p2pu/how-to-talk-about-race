@@ -1,11 +1,7 @@
 ---
 layout: page
 ---
-## Facilitator Tips
-We recommend that facilitators of "How to Talk About Race" read through each week's content, prior to hosting your Learning Circle, to familiarize yourself with the course. All videos and articles in this course are featured to encourage dialogue and open up opportunities to have more in-depth conversations about race and racism. For quick and easy access, all the links from this Learning Circle are featured [on this link tree](https://linktr.ee/howtotalkaboutrace), listed in chronological order of need for the course. 
-
-<br>
-## About Us
+# About Us
 If there is one thing you need to know about us, it is this: We owe so much of our confidence to approach conversations about race and racism to  Jody Grey (Director of the Office for Diversity & Inclusion at University of Minnesota) and Kristin LaHurd at the ALA Office of Diversity, Literacy, and Outreach Services.
 
 We have also learned a lot (and want to pay thanks & homage to)  Ijeoma Uluo, Ibram X Kendi, Jay Smooth, and a variety of other amazing people who we consider to be Social Justice Warriors. 
