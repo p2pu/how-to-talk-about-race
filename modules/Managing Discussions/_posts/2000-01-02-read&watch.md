@@ -24,29 +24,29 @@ As the facilitator it is your responsibility to maintain the space. Below are so
 
 **To clarify a point someone has made:** Paraphrase what a person has said to clarify the point and move the conversation to a deeper place. When you paraphrase try to do it in a way that makes it easy for the speaker to correct you.  
 
-_>“What I’m hearing is ____________. Is that correct?”_
+>“What I’m hearing is ____________. Is that correct?”
 
 **To dig deeper:**  Ask a probing or follow-up question to the speaker to get clarification. 
 
-> “Let’s unpack that.”_
+> “Let’s unpack that.”
 
-> “Why is that important to you?”_
+> “Why is that important to you?”
 
->“Can you say more about that?”_
+>“Can you say more about that?”
 
 **Engaging participants to respond to a comment that was made:** Ask a “reaction question” that invites other participants to comment on the last speaker’s comments in some way.
 
->“Does anyone else have a different view?”_
+>“Does anyone else have a different view?”
 
 **If the conversation gets “off track” or you need to redirect things:** Ask a new starting question. Go ahead and shift the conversation if you need to. You are a moderator.
 
->“In the interest of time we are going to move on.”_
+>“In the interest of time we are going to move on.”
 
->“I’d like to bring us back on track now.”_
+>“I’d like to bring us back on track now.”
 
 **What if it gets quiet and nobody says anything?** Let there be silence.
 
->Often, facilitators feel pressure to keep the conversation flowing, so they are troubled by silence and try to fill it with a probing question or by changing the topic. It’s okay to sit in the silence and give people a little space to find their way to what they want to say._
+>Often, facilitators feel pressure to keep the conversation flowing, so they are troubled by silence and try to fill it with a probing question or by changing the topic. It’s okay to sit in the silence and give people a little space to find their way to what they want to say.
 
 **What if someone says something outrageously offensive?** It just might happen. Someone might say something that takes you aback – something that sucks all the air out of the space. Yep, it could happen.
 
