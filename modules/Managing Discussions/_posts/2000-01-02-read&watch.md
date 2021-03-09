@@ -50,7 +50,7 @@ As the facilitator it is your responsibility to maintain the space. Below are so
 
 **What if someone says something outrageously offensive?** It just might happen. Someone might say something that takes you aback – something that sucks all the air out of the space. Yep, it could happen.
 
->Let the comment sit. Check the reaction of the others in the space. Invite others to comment and respond._
+>Let the comment sit. Check the reaction of the others in the space. Invite others to comment and respond.
 
 **You can also ask for a few seconds of silent reflection and then go around the room and ask each person to share one word about how they feel.**
 Remember, you aren’t here to fix anyone.
