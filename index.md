@@ -24,7 +24,7 @@ This course is free to access and use however you see fit. However, the learning
 <br>
 
 #### How do I create a learning circle?
-You can create a learning circle on the [P2PU website](http://p2pu.org) and use [this facilitator guide template](https://docs.google.com/document/d/1tiv1Y4ScGm4mVnJh4tUjCSzvCr44jaaI9_fn5y36Hvk/edit#) to help structure your meetings. You do not have to run the course exactly as outlined: Our content is a guideline for your own venture into the forays of facilitating conversations about race. This material is more effective when it can connect personally to learners, so we encourage you to customize the content based on your local area’s history, your personal intentions for running this program, and the learning goals of your attendees. 
+You can create a learning circle on the [P2PU website](http://p2pu.org) and use this [P2PU facilitator guide](https://docs.google.com/document/d/1tiv1Y4ScGm4mVnJh4tUjCSzvCr44jaaI9_fn5y36Hvk/edit#) to help structure your meetings. You do not have to run the course exactly as outlined: Our content is a guideline for your own venture into the forays of facilitating conversations about race. This material is more effective when it can connect personally to learners, so we encourage you to customize the content based on your local area’s history, your personal intentions for running this program, and the learning goals of your attendees. 
 
 <br>
 
