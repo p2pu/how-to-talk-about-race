@@ -5,7 +5,7 @@ body {
   }
 }
 
-@media (max-width: 1235px) and (min-width: 992px){
+@media (min-width: 992px) and (max-width: 1255px) {
   .navbar-nav {
     flex-basis: 0;
   }
