@@ -5,6 +5,12 @@ body {
   }
 }
 
+@media (max-width: 1235px) and (min-width: 992px){
+  .navbar-nav {
+    flex-basis: 0;
+  }
+}
+
 @include media-breakpoint-up(md) {
   .navbar {
     //line-height: 3;
