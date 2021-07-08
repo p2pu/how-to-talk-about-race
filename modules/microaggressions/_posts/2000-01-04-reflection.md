@@ -6,7 +6,7 @@ published: true
 # Reflect
 _Suggested timing: 15 minutes_
 
-**5 min:** Personal reflection: Quietly reflect on something that Amrita and Denise write in the second week of the course: “Our lived experiences shape our life and build a frame of the world. If you consistently have negative experiences or experiences that make you feel different, how would that affect you? If you realize that people who look like you also have the same experiences, how would that affect you and what would that tell you about the world around you?”
+**5 min:** Personal reflection: Quietly reflect on the following: “Our lived experiences shape our life and build a frame of the world. If you consistently have negative experiences or experiences that make you feel different, how would that affect you? If you realize that people who look like you also have the same experiences, how would that affect you and what would that tell you about the world around you?”
 
 **5 min:** Open space for group to share responses
 
