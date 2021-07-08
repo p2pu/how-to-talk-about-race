@@ -1,16 +1,16 @@
 ---
-title: Read&Watch
+title: Read & Watch
 published: true
 ---
 
-# Read&Watch
+# Read & Watch
 _Suggested timing: 25 minutes_
 
 As the facilitator it is your responsibility to maintain the space. Below are some concrete suggestions for supporting dialogue. 
 
 **10 min:** Review the text below on your own
 **15 min:** As a group, reflect on the list.
-*   Have you see these practices adapted in this learning circle?
+*   Have you seen these practices adapted in this learning circle?
 *   What is particularly hard for you?
 *   Any other suggestions that you would add to the list? Things you’d remove?
 
@@ -22,7 +22,7 @@ As the facilitator it is your responsibility to maintain the space. Below are so
 
 >“Thank you for your insights and sharing. Would anyone else like to share or have a comment?”
 
-**To clarify a point someone has made:** Paraphrase what a person has said to clarify the point and move the conversation to a deeper place. When you paraphrase try to do it in a way that makes it easy for the speaker to correct you.  
+**To clarify a point someone has made:** Paraphrase what a person has said to clarify the point and move the conversation to a deeper place; you can do this in a way that makes it easy for the speaker to correct you.
 
 >“What I’m hearing is ____________. Is that correct?”
 
