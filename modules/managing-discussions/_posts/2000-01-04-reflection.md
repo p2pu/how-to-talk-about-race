@@ -6,6 +6,6 @@ published: true
 # Reflection
 _Suggested timing: 15 minutes_
 
-Use the remaining time for final group reflections.
+Use the remaining time for final group reflections:
 
-If you signed up for this learning circle on p2pu.org, you’ll have a short survey waiting for you in your email. Additionally, we’d be grateful if you could share feedback directly with the course creators: [https://forms.gle/ruEraDfZGEKwSu8T7](https://forms.gle/ruEraDfZGEKwSu8T7)
+> It is important to listen to the voices of people of color. White people cannot be doing all the talking – people of color need to be included in every space, and white people need to actually listen. What can you do to magnify the voices of the oppressed and marginalized?
