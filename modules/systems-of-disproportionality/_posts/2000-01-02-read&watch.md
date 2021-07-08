@@ -1,9 +1,9 @@
 ---
-title: Read&Watch
+title: Read & Watch
 published: true
 ---
 
-# Read&Watch
+# Read & Watch
 _Suggested timing: 30 minutes_
 
 We are surrounded by systems designed to systematically favor specific groups of people based upon their group identities. Watch the following videos to explore this topic.
