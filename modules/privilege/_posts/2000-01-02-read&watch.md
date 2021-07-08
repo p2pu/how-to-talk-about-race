@@ -1,9 +1,9 @@
 ---
-title: Read&Watch
+title: Read & Watch
 published: true
 ---
 
-# Read&Watch
+# Read & Watch
 _Suggested timing: 30 minutes_
 
 **10 min:** Skim through [10 Examples That Prove White Privilege Exists in Every Aspect Imaginable](https://www.yesmagazine.org/social-justice/2017/07/24/10-examples-that-prove-white-privilege-exists-in-every-aspect-imaginable/) individually; feel free to jump around and focus on the sections that are most interesting to you.
