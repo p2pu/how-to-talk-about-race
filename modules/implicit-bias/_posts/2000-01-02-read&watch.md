@@ -1,9 +1,9 @@
 ---
-title: Read&Watch
+title: Read & Watch
 published: true
 ---
 
-# Read&Watch
+# Read & Watch
 _Suggested timing: 30 minutes_
 
 Watch both videos back to back, either individually or shared on a single screen.
