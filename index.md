@@ -5,7 +5,7 @@ published: true
 How to Talk about Race is a free 5-week course designed to help you moderate discussions about race. Though this material can be used by anyone, we designed it specifically to equip library employees with the skills to run effective and considerate book discussions, learning circles, group conversations, and other programs about race in their communities. In gaining a deeper understanding of moderating conversations relating to race, participants will learn how to:
 - Use and understand the purpose of an Identity Wheel
 - Explore implicit bias & microaggressions
-- Understand systemic racism, the concept  of “lived experiences” and how to frame conversations ”
+- Understand systemic racism, the concept  of “lived experiences” and how to frame conversations
 - Facilitate discussions about race and establish ground rules for a group discussion
 - Navigate everyday scenarios relating to race
 
