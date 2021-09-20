@@ -8,6 +8,7 @@ _Suggested timing: 5 minutes_
 
 How did the first meeting go? Take a minute to share something that went well (a plus) and something that you’d like to change for next week (a delta). You can return to this list during the next meeting to ensure that you’re making changes that benefit the learning experience for everybody.
 
+<br>
 
 ### Before the Next Meeting
 
@@ -15,6 +16,8 @@ To prepare for the next module, check out the following:
 
 * 2 min: Watch Fusion Comedy's [*How microaggressions are like mosquito bites*](https://www.youtube.com/watch?v=hDd3bzA7450)
 * 20 min: Read NPR's ["Microaggressions Are A Big Deal: How To Talk Them Out And When To Walk Away"](https://www.npr.org/2020/06/08/872371063/microaggressions-are-a-big-deal-how-to-talk-them-out-and-when-to-walk-away) 
+
+<br>
 
 ### Independent Assignment
 
