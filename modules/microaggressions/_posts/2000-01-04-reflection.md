@@ -12,6 +12,7 @@ _Suggested timing: 15 minutes_
 
 **5 min:** Plus/delta
 
+<br>
 
 ### For Next Week
 When it comes to moderating discussions relating to race, it is inevitable that lived experiences – both good and bad – will come up in the conversation. The best way to approach these conversations is to frame the conversation and help drive a meaningful, productive narrative by tying in systems of disproportionality.
